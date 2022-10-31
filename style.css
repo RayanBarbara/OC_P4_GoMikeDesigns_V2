@@ -831,6 +831,28 @@ h4 {
     background-image: url("img/atlanta%20made%20sign%20orange.jpg");
 }
 
+#bloc-0 img{
+    height: 40px;
+}
+
+#bloc-1-hero img{
+    height: 150px;
+}
+
+#bloc-2-services h2{
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+#bloc-4-portfolio h2{
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+#review p{
+    font-size: 16px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
