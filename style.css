@@ -890,6 +890,18 @@ h4 {
     color: #F8DDB4;
 }
 
+.fa-brands:active{
+    color:rgb(255, 187, 0)!important;
+}
+
+.nav--link:active{
+    text-decoration: underline!important;
+}
+
+.nav--link:hover{
+    color:#0000ff!important;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
