@@ -1,12 +1,7 @@
 # Open Classroom project n°4 - GoMike Designs
 
 ## Project description
-Your friend Mike is a freelance web designer who lives in Atlanta. 
-Many local shops have outdated websites, so he approached a few and landed his first clients. 
-But now he would like potential customers to find him when they Google for local freelance web designers to hire. 
-With your new understanding of quality web development, you realize that his current portfolio website is not optimized for 
-SEO and can be improved with better keyword content, structure, and speed optimization. 
-You also suspect that some users with disabilities will encounter obstacles with his website, posing accessibility issues.
+GoMike designs is a portfolio used by a freelance web designer living in Atlanta. The project goal is to optimize its SEO and accessibility.
 
 For this project, only the following technologies are allowed:
 
