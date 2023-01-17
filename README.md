@@ -21,21 +21,6 @@ Otherwise, clone the project:
 git clone https://github.com/RayanBarbara/OC_P4_GoMikeDesigns_V2.git
 ```
 
-Install dependencies:
-```terminal
- yarn install
-```
-
-And start the server!
-```terminal
-yarn dev
-```
-
-You can also build the project for production:
-```terminal
-yarn build
-```
-
 ## License
 
 MIT License
